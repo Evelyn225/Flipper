@@ -57,6 +57,7 @@ function Get-Creds {
 
     while ($form -eq $null)
     {
+    	$cred = $null
         while ($cred -eq $null) {
             $cred = $host.ui.promptforcredential('Failed Authentication','',[Environment]::UserDomainName+'\'+[Environment]::UserName,[Environment]::UserDomainName); 
         }
